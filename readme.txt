@@ -1,2 +1,2 @@
 Git is  a distributed  version control system.
-Gti is free software.
+Gti is free software distributed under the GPL.
